@@ -1,9 +1,16 @@
 __pycache__/
 *.h5
 *.pt
+*.pth
 *.csv
 .env
 .vscode/
 *.ckpt
 *.onnx
 .DS_Store
+*.keras
+*.npy
+*.npz
+*.mat
+.venv/
+venv/
